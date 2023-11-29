@@ -1,6 +1,6 @@
 <template>
 	<address>
-		<p class="bg-slate-600">JOHN DON</p>
+		<p >JOHN DON</p>
 		<p>Email: <a href="mailto:contato@exemplo.com">Johndon@company.com</a></p>
 	</address>
 	<nav>
