@@ -1,26 +1,26 @@
 <template>
 	<div class="overflow-x-auto p-3.5">
     <table class="min-w-full bg-white">
-      <thead class="bg-gray-800 text-white">
+      <thead class="text-white bg-gray-800 ">
         <tr>
-          <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Nome</th>
-          <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Cargo</th>
-          <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Cidade</th>
-          <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Idade</th>
-          <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Data de Início</th>
+          <th class="py-3 px-4 text-left uppercase font-semibold text-sm">Nome</th>
+          <th class="py-3 px-4 text-left uppercase font-semibold text-sm">Cargo</th>
+          <th class="py-3 px-4 text-left uppercase font-semibold text-sm">Cidade</th>
+          <th class="py-3 px-4 text-left uppercase font-semibold text-sm">Idade</th>
+          <th class="py-3 px-4 text-left uppercase font-semibold text-sm">Data de Início</th>
           
-          <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Salário</th>
+          <th class="py-3 px-4 text-left uppercase font-semibold text-sm">Salário</th>
         </tr>
       </thead>
       <tbody class="text-gray-700">
         <!-- Repita para cada linha -->
         <tr>
-          <td class="text-left py-3 px-4">Emanuel Nascente</td>
-          <td class="text-left py-3 px-4">Desenvolvedor Júnior</td>
-          <td class="text-left py-3 px-4">Porto Alegre</td>
-          <td class="text-left py-3 px-4">33</td>
-          <td class="text-left py-3 px-4">28/11/2008</td>
-          <td class="w-10 text-left py-3 px-4">$</td>
+          <td class="py-3 px-4 text-left ">Emanuel Nascente</td>
+          <td class="py-3 px-4 text-left ">Desenvolvedor Júnior</td>
+          <td class="py-3 px-4 text-left ">Porto Alegre</td>
+          <td class="py-3 px-4 text-left ">33</td>
+          <td class="py-3 px-4 text-left ">28/11/2008</td>
+          <td class="w-10 py-3 px-4 text-left ">$</td>
         </tr>
         <!-- ... outras linhas -->
       </tbody>
