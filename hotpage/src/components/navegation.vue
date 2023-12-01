@@ -2,8 +2,8 @@
 	<div class="h-full flex flex-col gap-10 items-center py-12">
 		<address class="flex flex-col items-center gap-1 p-5 not-italic">
 			<i class="fas fa-user-circle p-2 text-6xl"></i>
-			<p>JOHN DON</p>
-			<p>Email: <a href="mailto:contato@exemplo.com">Johndon@company.com</a></p>
+			<p>Emanuel</p>
+			<p>Email: <a href="mailto:contato@exemplo.com">manequinha@.com</a></p>
 		</address>
 		<nav class="flex flex-col gap-10">
 			<a href="#"><i class="fas fa-house pr-2 text-base"></i>home </a>

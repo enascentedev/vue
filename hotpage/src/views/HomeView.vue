@@ -1,7 +1,7 @@
 <script setup>
 import Cabecalho from "../components/cabecalho.vue";
 import Count from "../components/count.vue";
-import Dashboard from "../components/dashboard.vue";
+import Table from "../components/table.vue";
 import Navegation from "../components/navegation.vue";
 </script>
 
@@ -18,7 +18,7 @@ import Navegation from "../components/navegation.vue";
         <count />
       </section>
       <section class="flex-1 bg-purple-500">
-        <dashboard />
+        <Table/>
       </section>
     </main>
   </div>
