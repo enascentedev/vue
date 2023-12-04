@@ -7,17 +7,17 @@ import Navegation from "../components/navegation.vue";
 
 <template>
   <div class="flex h-screen">
-    <aside class="w-1/5 h-full bg-red-600">
+    <aside class="w-1/5 h-full ">
       <navegation />
     </aside>
     <main class="w-4/5 h-screen flex flex-col">
-      <section class="h-20 bg-blue-500">
+      <section class="h-20 ">
         <cabecalho />
       </section>
-      <section class="h-40 bg-green-500">
+      <section class="h-40 ">
         <count />
       </section>
-      <section class="flex-1 bg-purple-500">
+      <section class="flex-1 ">
         <Table/>
       </section>
     </main>
